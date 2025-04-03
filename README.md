@@ -20,8 +20,8 @@ pip install pygame
 
 How to Run
 Clone this repository:
-git clone https://github.com/your-repo/memory-puzzle-game.git
 
+git clone "paste the Repo Link"
 Navigate to the project folder:
 cd memory-puzzle-game
 
