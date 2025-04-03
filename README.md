@@ -35,9 +35,13 @@ python memory_puzzle.py
 ***How to Play***
 
 🎯 Click on any tile to reveal the number.
+
 🎯 Click on another tile to find its matching pair.
+
 🎯 If they match, both remain visible. If not, they flip back after a short delay.
+
 🎯 The game continues until all pairs are matched.
+
 
 ***Author***
 
