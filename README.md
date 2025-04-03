@@ -7,8 +7,11 @@
 ***Features***
 
 ✅ 4x4 grid of randomly shuffled numbers
+
 ✅ Click to reveal tiles
+
 ✅ Matching pairs remain visible, incorrect pairs flip back
+
 ✅ Simple and engaging gameplay
 
 ***Installation***
@@ -22,6 +25,7 @@ How to Run
 Clone this repository:
 
 git clone "paste the Repo Link"
+
 Navigate to the project folder:
 cd memory-puzzle-game
 
